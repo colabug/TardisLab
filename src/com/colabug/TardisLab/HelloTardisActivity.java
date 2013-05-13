@@ -3,15 +3,12 @@ package com.colabug.TardisLab;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class OutsideTardisActivity extends Activity
+public class HelloTardisActivity extends Activity
 {
-    /**
-     * Called when the activity is first created.
-     */
     @Override
     public void onCreate( Bundle savedInstanceState )
     {
         super.onCreate( savedInstanceState );
-        setContentView( R.layout.outside_tardis );
+        setContentView( R.layout.hello_tardis );
     }
 }
