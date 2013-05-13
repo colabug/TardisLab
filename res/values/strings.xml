@@ -2,5 +2,4 @@
 
 <resources>
     <string name="APPLICATION_NAME">TardisLab</string>
-    <string name="TARDIS_WELCOME">Hello, This is the Tardis!</string>
 </resources>
