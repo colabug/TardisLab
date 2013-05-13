@@ -10,7 +10,7 @@
 
     <application
         android:label="@string/APPLICATION_NAME"
-        android:icon="@drawable/ic_launcher">
+        android:icon="@drawable/ic_tardis">
 
         <activity
             android:name="OutsideTardisActivity"
