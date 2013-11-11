@@ -1,9 +1,9 @@
 package com.colabug.TardisLab;
 
-import android.app.Activity;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 
-public class HelloTardisActivity extends Activity
+public class HelloTardisActivity extends FragmentActivity
 {
     @Override
     public void onCreate( Bundle savedInstanceState )
